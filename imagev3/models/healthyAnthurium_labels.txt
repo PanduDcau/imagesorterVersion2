@@ -1,0 +1,2 @@
+0 Healthy Anthurium
+1 Not Healthy Anthurium
