@@ -1,0 +1,2 @@
+0 Initial Stage
+1 Severity Stage
