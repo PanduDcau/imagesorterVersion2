@@ -1,5 +1,5 @@
 ## Hierarchy of the Application
-import os
+import os  ## Importing OS files
 from main import process_uploaded_image
 from flask import render_template, request, jsonify, send_from_directory
 from werkzeug.utils import secure_filename
