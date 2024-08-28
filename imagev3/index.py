@@ -1,3 +1,4 @@
+## Hierarchy of the Application
 import os
 from main import process_uploaded_image
 from flask import render_template, request, jsonify, send_from_directory
